@@ -1,0 +1,9 @@
+Building PikaCoin
+
+See doc/readme-qt.rst for instructions on building PikaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PikaCoin.
+
+See doc/build-*.txt for instructions on building pikacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PikaCoin.
